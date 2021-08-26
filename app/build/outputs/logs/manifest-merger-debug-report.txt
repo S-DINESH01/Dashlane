@@ -1,0 +1,352 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:2:1-98:12
+MERGED from [androidx.multidex:multidex:2.0.1] D:\goshareitfile\caches\transforms-1\files-1.1\multidex-2.0.1.aar\4c99ec3600a8fe22b6adaba5700a7e74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-games:20.0.1] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-games-20.0.1.aar\4fafac8dc29320fe488955fe73888047\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\jetified-play-services-ads-19.4.0.aar\8e27c2727c2df68b7a7d08877d6ada23\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-gass-19.4.0.aar\fb487d230a3e71696bfc45c1d9c71f78\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\a0539140db5f6770a40be955d5c81f26\AndroidManifest.xml:17:1-24:12
+MERGED from [:aob_sessionreporting] D:\goshareitfile\caches\transforms-1\files-1.1\aob_sessionreporting.aar\447439ea2908930e0117deaed02e2398\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-api-phone-17.0.0.aar\bcff1e003dc7b49f0818d27d750e1cc1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-base-17.0.0.aar\e6c989fd8a1dfc82152006779a30312d\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-drive-17.0.0.aar\55b958a951cebef530ad3b2be59dbf74\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\baf6f35b3f476539e3ea58e7eccd60bb\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\1be9197578ef399be300c0f27542d37e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\ef53a7a31180e7f40101657f52f8c1f6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-tasks-17.1.0.aar\3f9172589c95c4d104f939df1914d5a9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] D:\goshareitfile\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\1f89fb1036612830a78b443f77b96634\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\fragment-1.0.0.aar\9760b45466d5aba2cc2b36be5ecdc768\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\browser-1.0.0.aar\b2c537c6252d56275f2d20199d2f4ddd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\8b07e746a02ccc41b248c3769cdd2078\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0907bc6faab45c44c4cbd428e4a7f6d1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\loader-1.0.0.aar\d13f2197842018324383e4255fca78c1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\75e22d220e706a394d2513d58496e692\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2bd29a77c41e9403cae42fda4ab124a7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\074241716aea37158c5d939c431cc0f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\eceeb1cdca426486a2bc12025856370b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\customview-1.0.0.aar\437d8ecabbe00ab2b764a6d42524774c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6a94bccad2731d5820d6991a2280a1f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\45b6b93a07e481d1a4497a24f95c63c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\core-1.2.0.aar\5d208761a7e58047ba38583706ca2355\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\15f10008eb02df64719a6f29b7625f6d\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-base-19.4.0.aar\54e1f2716a59849e439ce9d52ca9217b\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\278c87c86917f14e8f33cc6306fc348d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\4235cc4c5dce18f9603604d6aa84c243\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5b2d84592d634cbe20f80263c02920bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\fd730e745e89dd9d36850ab429c33c21\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\eada93dd5d62ae6977eb33fc530e9ae7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\print-1.0.0.aar\5c80b4636650124dc661a660a16b5cf5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d20baf4bb681dbfba877c719fa7a79f6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\1097e2ce82d61cf8171d702f02d5c7aa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9d0e10ddf06ce641c8024182af544b7a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c00b4e1a5205869a562bc4eb52dca1f2\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:2:1-98:12
+INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:7:5-73:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-games:20.0.1] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-games-20.0.1.aar\4fafac8dc29320fe488955fe73888047\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:20.0.1] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-games-20.0.1.aar\4fafac8dc29320fe488955fe73888047\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-gass-19.4.0.aar\fb487d230a3e71696bfc45c1d9c71f78\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-gass-19.4.0.aar\fb487d230a3e71696bfc45c1d9c71f78\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\a0539140db5f6770a40be955d5c81f26\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\a0539140db5f6770a40be955d5c81f26\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-drive-17.0.0.aar\55b958a951cebef530ad3b2be59dbf74\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-drive-17.0.0.aar\55b958a951cebef530ad3b2be59dbf74\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\baf6f35b3f476539e3ea58e7eccd60bb\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\baf6f35b3f476539e3ea58e7eccd60bb\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\ef53a7a31180e7f40101657f52f8c1f6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\ef53a7a31180e7f40101657f52f8c1f6\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-tasks-17.1.0.aar\3f9172589c95c4d104f939df1914d5a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-tasks-17.1.0.aar\3f9172589c95c4d104f939df1914d5a9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] D:\goshareitfile\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\1f89fb1036612830a78b443f77b96634\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] D:\goshareitfile\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\1f89fb1036612830a78b443f77b96634\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\core-1.2.0.aar\5d208761a7e58047ba38583706ca2355\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\core-1.2.0.aar\5d208761a7e58047ba38583706ca2355\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\15f10008eb02df64719a6f29b7625f6d\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\15f10008eb02df64719a6f29b7625f6d\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-base-19.4.0.aar\54e1f2716a59849e439ce9d52ca9217b\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-base-19.4.0.aar\54e1f2716a59849e439ce9d52ca9217b\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\core-1.2.0.aar\5d208761a7e58047ba38583706ca2355\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:7:18-50
+	android:icon
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:8:9-38
+	android:allowBackup
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:10:9-61
+meta-data#com.google.android.gms.version
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:12:9-13:69
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] D:\goshareitfile\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\1f89fb1036612830a78b443f77b96634\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] D:\goshareitfile\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\1f89fb1036612830a78b443f77b96634\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:13:13-66
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:12:20-65
+meta-data#com.google.android.gms.games.APP_ID
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:14:9-15:46
+	android:value
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:14:20-70
+activity#com.breakbounce.dashlane.PTPlayer
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:19:13-49
+	android:label
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:18:13-45
+	android:configChanges
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:21:13-48
+	android:theme
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:20:13-71
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:17:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:24:27-74
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:35:9-36:51
+	android:value
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:35:20-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:38:9-40:64
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:29:9-33:64
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:39:13-122
+	android:theme
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:40:13-61
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:38:19-71
+uses-library#org.apache.http.legacy
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:72:9-87
+	android:required
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:72:61-85
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:72:23-60
+supports-screens
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:75:5-78:39
+	android:largeScreens
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:75:23-50
+	android:smallScreens
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:76:9-36
+	android:normalScreens
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:78:9-37
+	android:anyDensity
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:77:9-34
+uses-permission#android.permission.INTERNET
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:91:5-67
+MERGED from [:aob_sessionreporting] D:\goshareitfile\caches\transforms-1\files-1.1\aob_sessionreporting.aar\447439ea2908930e0117deaed02e2398\AndroidManifest.xml:11:5-67
+MERGED from [:aob_sessionreporting] D:\goshareitfile\caches\transforms-1\files-1.1\aob_sessionreporting.aar\447439ea2908930e0117deaed02e2398\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\1be9197578ef399be300c0f27542d37e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\1be9197578ef399be300c0f27542d37e\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:91:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:93:5-79
+MERGED from [:aob_sessionreporting] D:\goshareitfile\caches\transforms-1\files-1.1\aob_sessionreporting.aar\447439ea2908930e0117deaed02e2398\AndroidManifest.xml:12:5-79
+MERGED from [:aob_sessionreporting] D:\goshareitfile\caches\transforms-1\files-1.1\aob_sessionreporting.aar\447439ea2908930e0117deaed02e2398\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\1be9197578ef399be300c0f27542d37e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\1be9197578ef399be300c0f27542d37e\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:93:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:94:5-75
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:94:22-73
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:95:5-81
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:95:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:96:5-81
+	android:name
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml:96:22-78
+uses-sdk
+INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.1] D:\goshareitfile\caches\transforms-1\files-1.1\multidex-2.0.1.aar\4c99ec3600a8fe22b6adaba5700a7e74\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] D:\goshareitfile\caches\transforms-1\files-1.1\multidex-2.0.1.aar\4c99ec3600a8fe22b6adaba5700a7e74\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:20.0.1] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-games-20.0.1.aar\4fafac8dc29320fe488955fe73888047\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:20.0.1] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-games-20.0.1.aar\4fafac8dc29320fe488955fe73888047\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\jetified-play-services-ads-19.4.0.aar\8e27c2727c2df68b7a7d08877d6ada23\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\jetified-play-services-ads-19.4.0.aar\8e27c2727c2df68b7a7d08877d6ada23\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-gass-19.4.0.aar\fb487d230a3e71696bfc45c1d9c71f78\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-gass-19.4.0.aar\fb487d230a3e71696bfc45c1d9c71f78\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\a0539140db5f6770a40be955d5c81f26\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-identifier-17.0.0.aar\a0539140db5f6770a40be955d5c81f26\AndroidManifest.xml:20:5-44
+MERGED from [:aob_sessionreporting] D:\goshareitfile\caches\transforms-1\files-1.1\aob_sessionreporting.aar\447439ea2908930e0117deaed02e2398\AndroidManifest.xml:7:5-9:41
+MERGED from [:aob_sessionreporting] D:\goshareitfile\caches\transforms-1\files-1.1\aob_sessionreporting.aar\447439ea2908930e0117deaed02e2398\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-api-phone-17.0.0.aar\bcff1e003dc7b49f0818d27d750e1cc1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-api-phone-17.0.0.aar\bcff1e003dc7b49f0818d27d750e1cc1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-base-17.0.0.aar\e6c989fd8a1dfc82152006779a30312d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-base-17.0.0.aar\e6c989fd8a1dfc82152006779a30312d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-drive-17.0.0.aar\55b958a951cebef530ad3b2be59dbf74\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:17.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-drive-17.0.0.aar\55b958a951cebef530ad3b2be59dbf74\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\baf6f35b3f476539e3ea58e7eccd60bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\baf6f35b3f476539e3ea58e7eccd60bb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\1be9197578ef399be300c0f27542d37e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\1be9197578ef399be300c0f27542d37e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\ef53a7a31180e7f40101657f52f8c1f6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-base-17.2.0.aar\ef53a7a31180e7f40101657f52f8c1f6\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-tasks-17.1.0.aar\3f9172589c95c4d104f939df1914d5a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-tasks-17.1.0.aar\3f9172589c95c4d104f939df1914d5a9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] D:\goshareitfile\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\1f89fb1036612830a78b443f77b96634\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.3.0] D:\goshareitfile\caches\transforms-1\files-1.1\jetified-play-services-basement-17.3.0.aar\1f89fb1036612830a78b443f77b96634\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\fragment-1.0.0.aar\9760b45466d5aba2cc2b36be5ecdc768\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\fragment-1.0.0.aar\9760b45466d5aba2cc2b36be5ecdc768\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\browser-1.0.0.aar\b2c537c6252d56275f2d20199d2f4ddd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\browser-1.0.0.aar\b2c537c6252d56275f2d20199d2f4ddd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\8b07e746a02ccc41b248c3769cdd2078\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\8b07e746a02ccc41b248c3769cdd2078\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0907bc6faab45c44c4cbd428e4a7f6d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\0907bc6faab45c44c4cbd428e4a7f6d1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\loader-1.0.0.aar\d13f2197842018324383e4255fca78c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\loader-1.0.0.aar\d13f2197842018324383e4255fca78c1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\75e22d220e706a394d2513d58496e692\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\75e22d220e706a394d2513d58496e692\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2bd29a77c41e9403cae42fda4ab124a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2bd29a77c41e9403cae42fda4ab124a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\074241716aea37158c5d939c431cc0f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\074241716aea37158c5d939c431cc0f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\eceeb1cdca426486a2bc12025856370b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\eceeb1cdca426486a2bc12025856370b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\customview-1.0.0.aar\437d8ecabbe00ab2b764a6d42524774c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\customview-1.0.0.aar\437d8ecabbe00ab2b764a6d42524774c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6a94bccad2731d5820d6991a2280a1f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6a94bccad2731d5820d6991a2280a1f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\45b6b93a07e481d1a4497a24f95c63c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\45b6b93a07e481d1a4497a24f95c63c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\core-1.2.0.aar\5d208761a7e58047ba38583706ca2355\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\core-1.2.0.aar\5d208761a7e58047ba38583706ca2355\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\15f10008eb02df64719a6f29b7625f6d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\15f10008eb02df64719a6f29b7625f6d\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-base-19.4.0.aar\54e1f2716a59849e439ce9d52ca9217b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-base-19.4.0.aar\54e1f2716a59849e439ce9d52ca9217b\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\278c87c86917f14e8f33cc6306fc348d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\278c87c86917f14e8f33cc6306fc348d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\4235cc4c5dce18f9603604d6aa84c243\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\4235cc4c5dce18f9603604d6aa84c243\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5b2d84592d634cbe20f80263c02920bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\5b2d84592d634cbe20f80263c02920bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\fd730e745e89dd9d36850ab429c33c21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\fd730e745e89dd9d36850ab429c33c21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\eada93dd5d62ae6977eb33fc530e9ae7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\eada93dd5d62ae6977eb33fc530e9ae7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\print-1.0.0.aar\5c80b4636650124dc661a660a16b5cf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\print-1.0.0.aar\5c80b4636650124dc661a660a16b5cf5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d20baf4bb681dbfba877c719fa7a79f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d20baf4bb681dbfba877c719fa7a79f6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\1097e2ce82d61cf8171d702f02d5c7aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\1097e2ce82d61cf8171d702f02d5c7aa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9d0e10ddf06ce641c8024182af544b7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\9d0e10ddf06ce641c8024182af544b7a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c00b4e1a5205869a562bc4eb52dca1f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] D:\goshareitfile\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\c00b4e1a5205869a562bc4eb52dca1f2\AndroidManifest.xml:20:5-44
+INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\jetified-play-services-ads-19.4.0.aar\8e27c2727c2df68b7a7d08877d6ada23\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:18.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-auth-18.1.0.aar\4cf5eb8c87b778cc5c9e1c14f247be36\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\baf6f35b3f476539e3ea58e7eccd60bb\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\baf6f35b3f476539e3ea58e7eccd60bb\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\baf6f35b3f476539e3ea58e7eccd60bb\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-base-17.1.0.aar\baf6f35b3f476539e3ea58e7eccd60bb\AndroidManifest.xml:24:13-79
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:36:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:41:9-44:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:43:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.4.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-ads-lite-19.4.0.aar\f01b7cc69d65ebee0607c562913a4785\AndroidManifest.xml:42:13-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\1be9197578ef399be300c0f27542d37e\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] D:\goshareitfile\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-17.2.0.aar\1be9197578ef399be300c0f27542d37e\AndroidManifest.xml:25:22-65

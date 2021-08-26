@@ -1,0 +1,2 @@
+# Referenced at D:\dashlane-admob-ads-1.0.0\dashlane-admob-ads-1.0.0\android\app\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:37
+-keep class androidx.multidex.MultiDexApplication { <init>(...); }

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-measurement-base:17.2.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-17.2.0.aar/7224cab54e8d98eb4a2ead05225261ef/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-17.2.0.aar/7224cab54e8d98eb4a2ead05225261ef/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/play-services-measurement-base-17.2.0.aar/7224cab54e8d98eb4a2ead05225261ef/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../goshareitfile/caches/transforms-1/files-1.1/play-services-measurement-base-17.2.0.aar/ef53a7a31180e7f40101657f52f8c1f6/res" />
+      <root url="file://$PROJECT_DIR$/../../../goshareitfile/caches/transforms-1/files-1.1/play-services-measurement-base-17.2.0.aar/ef53a7a31180e7f40101657f52f8c1f6/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../goshareitfile/caches/transforms-1/files-1.1/play-services-measurement-base-17.2.0.aar/ef53a7a31180e7f40101657f52f8c1f6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-base/17.2.0/81d06b784340d33e444ab6633dfacc3f01f2e485/play-services-measurement-base-17.2.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../goshareitfile/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-base/17.2.0/81d06b784340d33e444ab6633dfacc3f01f2e485/play-services-measurement-base-17.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

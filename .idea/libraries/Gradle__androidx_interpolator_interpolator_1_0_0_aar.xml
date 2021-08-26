@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.interpolator:interpolator:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/609765d0a26f0ecf985e24b76a842491/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/609765d0a26f0ecf985e24b76a842491/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/609765d0a26f0ecf985e24b76a842491/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../goshareitfile/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/4235cc4c5dce18f9603604d6aa84c243/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../goshareitfile/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/4235cc4c5dce18f9603604d6aa84c243/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../goshareitfile/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/4235cc4c5dce18f9603604d6aa84c243/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../goshareitfile/caches/modules-2/files-2.1/androidx.interpolator/interpolator/1.0.0/fefd5e3cbc479b6b4a9532d05688a1e659e8d3d2/interpolator-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
